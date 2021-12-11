@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35169" started-at="2021-12-11T18:39:27Z" finished-at="2021-12-11T18:40:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35169" started-at="2021-12-11T18:39:27Z" finished-at="2021-12-11T18:40:02Z">
+      <class name="org.mma.training.java.selenium.web.tours.MercuryWebTourTest">
+        <test-method status="PASS" signature="StartBrowser()[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4]" name="StartBrowser" is-config="true" duration-ms="7353" started-at="2021-12-11T18:39:27Z" finished-at="2021-12-11T18:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method status="PASS" signature="registrationPageValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4]" name="registrationPageValidation" duration-ms="13078" started-at="2021-12-11T18:39:35Z" data-provider="getRegistrationPage" finished-at="2021-12-11T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jojo ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bean]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1.234567891E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jojobean@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123, main Street]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MD]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[21228.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[BANGLADESH]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[jojobean]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[jojobean]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[jojobean]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageValidation -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2021-12-11T18:39:48Z" finished-at="2021-12-11T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registrationPageValidation status=SUCCESS method=MercuryWebTourTest.registrationPageValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="registrationPageValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4]" name="registrationPageValidation" duration-ms="13036" started-at="2021-12-11T18:39:48Z" data-provider="getRegistrationPage" finished-at="2021-12-11T18:40:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jojo1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bean1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1.234567891E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jojobean1@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[125, main Street]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[VA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[21221.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[TUNISIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[jojobean1]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[jojobean1]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[jojobean1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageValidation -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2021-12-11T18:40:01Z" finished-at="2021-12-11T18:40:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registrationPageValidation status=SUCCESS method=MercuryWebTourTest.registrationPageValidation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.mma.training.java.selenium.web.tours.MercuryWebTourTest@c267ef4]" name="CloseBrowser" is-config="true" duration-ms="861" started-at="2021-12-11T18:40:01Z" finished-at="2021-12-11T18:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.mma.training.java.selenium.web.tours.MercuryWebTourTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
